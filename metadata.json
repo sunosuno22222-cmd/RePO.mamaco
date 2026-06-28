@@ -1,0 +1,6 @@
+{
+  "name": "SCRIPTS OFICIAL MP",
+  "description": "O portfólio oficial de scripts e executores de Roblox mais completo, rápido e seguro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
